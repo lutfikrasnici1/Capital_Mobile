@@ -1,0 +1,52 @@
+com/example/document_scanner/helpers/Quadrilateral.java
+ com.example.document_scanner.helpers.Quadrilateral
+com/example/document_scanner/helpers/Utils.java
+ com.example.document_scanner.helpers.Utils
+ com.example.document_scanner.helpers.Utils$1
+com/example/document_scanner/views/OpenNoteCameraView.java
+ com.example.document_scanner.views.OpenNoteCameraView
+ com.example.document_scanner.views.OpenNoteCameraView$1
+ com.example.document_scanner.views.OpenNoteCameraView$2
+ com.example.document_scanner.views.OpenNoteCameraView$3
+ com.example.document_scanner.views.OpenNoteCameraView$4
+ com.example.document_scanner.views.OpenNoteCameraView$5
+ com.example.document_scanner.views.OpenNoteCameraView$6
+ com.example.document_scanner.views.OpenNoteCameraView$7
+ com.example.document_scanner.views.OpenNoteCameraView$AnimationRunnable
+ com.example.document_scanner.views.OpenNoteCameraView$AnimationRunnable$1
+ com.example.document_scanner.views.OpenNoteCameraView$OnProcessingListener
+ com.example.document_scanner.views.OpenNoteCameraView$OnScannerListener
+com/example/document_scanner/views/MainView.java
+ com.example.document_scanner.views.MainView
+com/example/document_scanner/DocumentScannerFactory.java
+ com.example.document_scanner.DocumentScannerFactory
+com/example/document_scanner/helpers/CustomOpenCVLoader.java
+ com.example.document_scanner.helpers.CustomOpenCVLoader
+ com.example.document_scanner.helpers.CustomOpenCVLoader$1
+ com.example.document_scanner.helpers.CustomOpenCVLoader$MyBroadcastReceiver
+com/example/document_scanner/helpers/OpenNoteMessage.java
+ com.example.document_scanner.helpers.OpenNoteMessage
+com/example/document_scanner/views/HUDCanvasView.java
+ com.example.document_scanner.views.HUDCanvasView
+ com.example.document_scanner.views.HUDCanvasView$HUDShape
+com/example/document_scanner/DocumentScannerPlugin.java
+ com.example.document_scanner.DocumentScannerPlugin
+com/example/document_scanner/helpers/AppConstant.java
+ com.example.document_scanner.helpers.AppConstant
+com/example/document_scanner/ImageProcessor.java
+ com.example.document_scanner.ImageProcessor
+ com.example.document_scanner.ImageProcessor$1
+ com.example.document_scanner.ImageProcessor$2
+ com.example.document_scanner.ImageProcessor$3
+com/example/document_scanner/DocumentScannerViewManager.java
+ com.example.document_scanner.DocumentScannerViewManager
+ com.example.document_scanner.DocumentScannerViewManager$1
+ com.example.document_scanner.DocumentScannerViewManager$1$1
+ com.example.document_scanner.DocumentScannerViewManager$2
+ com.example.document_scanner.DocumentScannerViewManager$2$1
+com/example/document_scanner/helpers/PreviewFrame.java
+ com.example.document_scanner.helpers.PreviewFrame
+com/example/document_scanner/helpers/ScannedDocument.java
+ com.example.document_scanner.helpers.ScannedDocument
+com/example/document_scanner/BuildConfig.java
+ com.example.document_scanner.BuildConfig

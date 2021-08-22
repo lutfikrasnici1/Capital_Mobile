@@ -1,0 +1,4 @@
+com/geniusscansdk/flutter/BuildConfig.java
+ com.geniusscansdk.flutter.BuildConfig
+com/geniusscansdk/flutter/FlutterGeniusScanPlugin.java
+ com.geniusscansdk.flutter.FlutterGeniusScanPlugin

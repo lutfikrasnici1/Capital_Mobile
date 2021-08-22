@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :gssdk-scanflow:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7b29759619e9e7aad522d11ed8867e6/jetified-gssdk-scanflow/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7b29759619e9e7aad522d11ed8867e6/jetified-gssdk-scanflow/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7b29759619e9e7aad522d11ed8867e6/jetified-gssdk-scanflow/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
